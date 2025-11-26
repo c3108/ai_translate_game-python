@@ -2,4 +2,4 @@
 
 *Made with Google Speech Recognition*
 
-Translate Indonesian words to English (speech)
+Translate Indonesian words to English through speech!
